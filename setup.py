@@ -1,8 +1,7 @@
 import setuptools
 
-with open("README.md", "r", encoding='utf-8') as f:
-   description = f.read() 
-
+with open("README.md", "r", encoding="utf-8") as f:
+    description = f.read()
 
 __version__ = "0.0.0"
 
@@ -24,5 +23,5 @@ setuptools.setup(
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
     package_dir={"": "src"},
-    packages=setuptools.find_packages(where="src")
+    packages=setuptools.find_packages(where="src"),
 )
