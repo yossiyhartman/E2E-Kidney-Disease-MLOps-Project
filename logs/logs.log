@@ -61,3 +61,41 @@
 x===========x
 
 
+2025-07-10 13:47:23,951 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 13:47:23,954 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 13:47:23,955 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 13:47:23,956 - INFO - common - Directory artifacts/base_model created at artifacts/base_model
+2025-07-10 13:48:03,636 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 13:48:03,639 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 13:48:03,640 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 13:48:03,641 - INFO - common - Directory artifacts/base_model created at artifacts/base_model
+2025-07-10 13:48:32,562 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 13:48:32,564 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 13:48:32,564 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 13:48:32,565 - INFO - common - Directory artifacts/base_model created at artifacts/base_model
+2025-07-10 13:48:47,698 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 13:48:47,700 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 13:48:47,701 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 13:48:47,702 - INFO - common - Directory artifacts/base_model created at artifacts/base_model
+2025-07-10 14:05:43,435 - INFO - main - >>>>>> stage Data Ingestion started <<<<<<
+2025-07-10 14:05:43,436 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 14:05:43,437 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 14:05:43,437 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 14:05:43,437 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-10 14:05:43,437 - INFO - data_ingestion - Downloading dataset from https://drive.google.com/file/d/1jsHsEOQWO36My3YWQQ_IbnxCBlRrDQIS/view?usp=sharing to artifacts/data_ingestion/dataset.zip
+2025-07-10 14:06:06,583 - INFO - data_ingestion - Downloaded dataset to artifacts/data_ingestion/dataset.zip
+2025-07-10 14:06:17,262 - INFO - main - >>>>>> stage Data Ingestion completed <<<<<<
+
+x===========x
+
+
+2025-07-10 14:06:17,262 - INFO - main - >>>>>> stage Get Base Model started <<<<<<
+2025-07-10 14:06:17,263 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 14:06:17,264 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 14:06:17,264 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 14:06:17,264 - INFO - common - Directory artifacts/base_model created at artifacts/base_model
+2025-07-10 14:06:19,656 - INFO - main - >>>>>> stage Get Base Model completed <<<<<<
+
+x===========x
+
+
