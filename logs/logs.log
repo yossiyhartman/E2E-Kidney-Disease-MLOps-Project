@@ -1,3 +1,63 @@
 2025-07-09 15:00:29,854 - INFO - main - Logging is set up successfully.
 2025-07-09 15:14:36,133 - INFO - main - Logging is set up successfully.
 2025-07-09 15:28:46,184 - INFO - main - Logging is set up successfully.
+2025-07-09 23:36:36,246 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:36:36,248 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:36:36,249 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:40:07,286 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:40:07,287 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:40:07,287 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:41:00,490 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:41:00,490 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:41:00,491 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:41:13,220 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:41:13,221 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:41:13,221 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:41:30,747 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:41:30,748 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:41:30,749 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:43:04,988 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:43:04,989 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:45:02,892 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:45:02,894 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:45:02,894 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:46:07,391 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:46:07,393 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:46:07,394 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:46:11,474 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:46:11,476 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:46:11,477 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:48:11,275 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:48:11,276 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:48:11,277 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:48:11,277 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-09 23:48:36,382 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-09 23:48:36,384 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-09 23:48:36,385 - INFO - common - Directory artifacts created at artifacts
+2025-07-09 23:48:36,385 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-09 23:48:36,385 - INFO - 3135139578 - Downloading dataset from https://drive.google.com/file/d/13yUvkZQhBKWm2_vD1P-x6F2XDzMsBySb/view?usp=sharing to artifacts/data_ingestion/dataset.zip
+2025-07-09 23:49:00,949 - INFO - 3135139578 - Downloaded dataset to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:30:24,534 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 10:30:24,536 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 10:30:24,537 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 10:30:24,537 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-10 10:30:24,538 - INFO - 3135139578 - Downloading dataset from https://drive.google.com/file/d/13yUvkZQhBKWm2_vD1P-x6F2XDzMsBySb/view?usp=sharing to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:30:46,053 - INFO - 3135139578 - Downloaded dataset to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:39:40,678 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 10:39:40,679 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 10:39:40,680 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 10:39:40,680 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-10 10:39:40,681 - INFO - 3617860386 - Downloading dataset from https://drive.google.com/file/d/1jsHsEOQWO36My3YWQQ_IbnxCBlRrDQIS/view?usp=sharing to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:40:04,670 - INFO - 3617860386 - Downloaded dataset to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:53:36,538 - INFO - main - >>>>>> stage Data Ingestion started <<<<<<
+2025-07-10 10:53:36,539 - INFO - common - YAML file config/config.yaml loaded successfully.
+2025-07-10 10:53:36,539 - INFO - common - YAML file params.yaml loaded successfully.
+2025-07-10 10:53:36,539 - INFO - common - Directory artifacts created at artifacts
+2025-07-10 10:53:36,539 - INFO - common - Directory artifacts/data_ingestion created at artifacts/data_ingestion
+2025-07-10 10:53:36,539 - INFO - data_ingestion - Downloading dataset from https://drive.google.com/file/d/1jsHsEOQWO36My3YWQQ_IbnxCBlRrDQIS/view?usp=sharing to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:53:58,987 - INFO - data_ingestion - Downloaded dataset to artifacts/data_ingestion/dataset.zip
+2025-07-10 10:54:08,734 - INFO - main - >>>>>> stage Data Ingestion completed <<<<<<
+
+x===========x
+
+

@@ -31,7 +31,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
 
 
 @ensure_annotations
-def create_directories(paths: list, verbose=True) -> None:
+def create_directories(paths: list, verbose: bool = True):
 
     for path in paths:
         os.makedirs(path, exist_ok=True)
@@ -40,7 +40,7 @@ def create_directories(paths: list, verbose=True) -> None:
 
 
 @ensure_annotations
-def save_json(path: Path, data: dict) -> None:
+def save_json(path: Path, data: dict):
 
     with open(path, "w") as json_file:
         json.dump(data, json_file, indent=4)
@@ -58,7 +58,7 @@ def load_json(path: Path) -> ConfigBox:
 
 
 @ensure_annotations
-def save_bin(Path: Path, data) -> None:
+def save_bin(Path: Path, data):
 
     joblib.dump(data, Path)
     logger.info(f"Binary file saved at {Path}")
@@ -80,7 +80,7 @@ def get_size(path: Path) -> str:
 
 
 @ensure_annotations
-def decode_image(imgstring: str, filename: str) -> None:
+def decode_image(imgstring: str, filename: str):
 
     decoded_bytes = base64.b64decode(imgstring)
     with open(filename, "wb") as f:
