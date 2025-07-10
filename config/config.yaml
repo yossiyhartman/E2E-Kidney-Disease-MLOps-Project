@@ -11,3 +11,8 @@ base_model:
   root_dir: artifacts/base_model
   base_model_path: artifacts/base_model/base_model.pkl
   modified_base_model_path: artifacts/base_model/modified_base_model.pkl
+
+
+model_training:
+  root_dir: artifacts/training
+  trained_model_path: artifacts/training/trained_model.pkl

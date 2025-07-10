@@ -2,7 +2,6 @@ import torch
 
 from pathlib import Path
 from torchvision.models import vgg16
-from KidneyDiseasePrediction import logger
 from KidneyDiseasePrediction.entity.config_entity import BaseModelConfig
 
 
